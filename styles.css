@@ -26,9 +26,12 @@ img {
   display: flex;
   justify-content: center;
 }
-
+.images{
+	cursor: pointer;
+}
 .selected {
   border: 5px solid rgb(0, 195, 255);
+	
 }
 
 p {
